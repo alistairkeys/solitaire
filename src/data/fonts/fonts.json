@@ -1,0 +1,12 @@
+[
+	{
+		"name": "font",
+		"file": "FSEX300.ttf",
+		"size": 16
+	},
+	{
+		"name": "bigFont",
+		"file": "FSEX300.ttf",
+		"size": 24
+	}
+]

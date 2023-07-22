@@ -1,0 +1,6 @@
+{
+    "nim.project": [
+        "src/solitaire.nim"
+    ],
+    "nim.runOutputDirectory": "src"
+}
